@@ -6,3 +6,5 @@ This is the first file in the repo
 
 
 Whats up, doc
+
+Nutten going on but the rent
